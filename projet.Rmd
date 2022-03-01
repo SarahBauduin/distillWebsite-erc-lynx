@@ -1,0 +1,11 @@
+---
+title: "Projet ERC-Lynx"
+
+---
+
+Retrouvez l'historique du projet ERC-Lynx [projet ERC-Lynx](https://sites.google.com/view/erclynx/){target="_blank"}
+
+----------
+```{r, echo = FALSE, layout="l-body-outset"}
+knitr::include_graphics("images/piedPage.jpg")
+```

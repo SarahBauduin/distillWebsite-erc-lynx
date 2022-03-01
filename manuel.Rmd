@@ -1,0 +1,18 @@
+---
+title: "Manuel d'utilisation"
+
+---
+
+Un manuel d'utilisation est disponible en version pdf :  
+  
+![](files/pdf/ManuelUtilisation2.pdf){width="350" height="400"}
+
+La majeure partie du document reprends des informations présentes sur l’interface de l’outil. Seules les parties "Connexion / Inscription", "Résultats", "Limite du nombre de scémario à lancer" et "Contact" contiennent des informations supplémentaires qui ne sont pas présentées sur l’interface de l’outil.  
+
+Pour toutes les autres parties, le texte ainsi que les images présentées sont présentes sur l’interface de l’outil. Aucune information complémentaire n’a été ajoutée dans ces parties sur ce document.
+
+
+----------
+```{r, echo = FALSE, layout="l-body-outset"}
+knitr::include_graphics("images/piedPage.jpg")
+```

@@ -1,0 +1,39 @@
+---
+title: "Tutoriel vidéos"
+
+---
+
+Voici un ensemble de tutoriel vidéos. Chaque vidéo explique une étape du processus complet pour tester un scénario d'aménagement.  
+
+**1. Création d’un compte pour utiliser l’outil ERC-Lynx**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**2. Connexion à l’outil ERC-Lynx avec un compte validé**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**3. Présentation globale de l’outil**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**4. Modifier le réseau routier**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**5. Modifier le paysage**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**6. Modifier les populations de lynx**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**7. Lancer le modèle Lynx-Collision-Habitat pour tester le scénario d’aménagement**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**8. Réception des résultats**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+**9. Interprétation des résultats**  
+![](files/videos/testVideo.mp4){width="50%"}
+
+
+----------
+```{r, echo = FALSE, layout="l-body-outset"}
+knitr::include_graphics("images/piedPage.jpg")
+```

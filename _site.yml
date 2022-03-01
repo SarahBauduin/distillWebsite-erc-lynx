@@ -1,12 +1,19 @@
 name: "distillWebsite-erc-lynx"
-title: "Projet ERC-Lynx"
-description: |
-  Projet ERC-Lynx
+title: "ERC-Lynx"
+description: 
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Outil ERC-Lynx"
+      href: outil.html
+    - text: "Manuel d'utilisation"
+      href: manuel.html
+    - text: "Tutoriel vidéos"
+      href: tuto.html
+    - text: "FAQ"
+      href: faq.html    
+    - text: "Productions ERC-Lynx"
+      href: productions.html
+    - text: "Contact"
+      href: contact.html
 output: distill::distill_article

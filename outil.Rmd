@@ -1,0 +1,13 @@
+---
+title: "Outil ERC-Lynx"
+
+---
+  
+  
+# [Cliquez ici pour accéder à l'outil ERC-Lynx](https://www.erc-lynx.fr){target="_blank"}
+  
+  
+----------
+```{r, echo = FALSE, layout="l-body-outset"}
+knitr::include_graphics("images/piedPage.jpg")
+```

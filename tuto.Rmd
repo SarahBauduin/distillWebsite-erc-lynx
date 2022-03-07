@@ -1,9 +1,9 @@
 ---
-title: "Tutoriel vidéos"
+title: "Tutoriels vidéos"
 
 ---
 
-Voici un ensemble de tutoriel vidéos. Chaque vidéo explique une étape du processus complet pour tester un scénario d'aménagement.  
+Voici un ensemble de tutoriels vidéos. Chaque vidéo explique une étape du processus complet pour tester un scénario d'aménagement.  
 
 **1. Création d’un compte pour utiliser l’outil ERC-Lynx**  
 ![](files/videos/testVideo.mp4){width="50%"}

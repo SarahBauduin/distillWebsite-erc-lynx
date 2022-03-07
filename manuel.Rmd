@@ -3,9 +3,7 @@ title: "Manuel d'utilisation"
 
 ---
 
-Un manuel d'utilisation est disponible en version pdf :  
-  
-![](files/pdf/ManuelUtilisation2.pdf){width="350" height="400"}
+<a href="files/pdf/ManuelUtilisation2.pdf" target="blank">Un manuel d'utilisation est disponible en version pdf.</a>
 
 La majeure partie du document reprends des informations présentes sur l’interface de l’outil. Seules les parties "Connexion / Inscription", "Résultats", "Limite du nombre de scémario à lancer" et "Contact" contiennent des informations supplémentaires qui ne sont pas présentées sur l’interface de l’outil.  
 

@@ -26,7 +26,7 @@ Cet outil combine données, savoirs locaux et résultats d’analyses tels que :
 * Des données sur les cas de collisions routières de lynx avec un modèle statistique expliquant leurs déterminants tels que des caractéristiques propres aux infrastructures de transport et permettant de prédire les zones potentielles à fort risque de collision pour le lynx.
 * Des données sur la présence du lynx en Europe de l’Ouest avec un modèle statistique expliquant les caractéristiques du paysage favorisant la présence de cette espèce et permettant de prédire les différents types d’habitats du lynx dans l’espace.
 * Un modèle de type « individu-centré spatialement explicite » simulant les populations de lynx sur 50 ans par des données d’écologie comportementale et de dynamique des populations sur le lynx et permettant d’extraire des indices renseignant la viabilité des populations.
-* Une interface interactive pour permettre aux utilisateurs non-spécialistes de facilement utiliser l’outil.  
+* Une interface interactive pour permettre aux utilisateurs non-spécialistes d'utiliser facilement l’outil.  
 
 ### Équipe projet
 * Olivier Gimenez, Aurélie Coulon - [CEFE](https://www.cefe.cnrs.fr/fr/){target="_blank"}-[CNRS](https://www.cnrs.fr/fr/page-daccueil){target="_blank"}

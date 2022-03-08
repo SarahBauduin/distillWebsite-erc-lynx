@@ -3,7 +3,7 @@ title: "Productions ERC-Lynx"
 
 ---
 
-**22-23 octobre 2019.** Sarah Bauduin a présenté une partie des résultats du projet aux journées <a href="https://jiem-nantes-19.sciencesconf.org/" target="blank">Journées Ifremer - Réseau Mexico - GDR Ecostat - GDR MascotNum</a>.  
+**22-23 octobre 2019.** Sarah Bauduin a présenté une partie des résultats du projet aux <a href="https://jiem-nantes-19.sciencesconf.org/" target="blank">Journées Ifremer - Réseau Mexico - GDR Ecostat - GDR MascotNum</a>.  
 
 **24 septembre 2019.** Le troisième et dernier atelier a eu lieu à Besançon. Nous avons présenté l'interface et les acteurs ont pu la prendre en main. Nous avons également discuté collectivement des améliorations à apporter à l'interface. Prochain rendez-vous au second trimestre 2020 pour la journée de restitution des résultats du projet.  
 

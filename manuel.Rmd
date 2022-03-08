@@ -7,7 +7,7 @@ title: "Manuel d'utilisation"
 
 La majeure partie du document reprends des informations présentes sur l’interface de l’outil. Seules les parties "Connexion / Inscription", "Résultats", "Limite du nombre de scénario à lancer" et "Contact" contiennent des informations supplémentaires qui ne sont pas présentées sur l’interface de l’outil.  
 
-Pour toutes les autres parties, le texte ainsi que les images présentées sont présentes sur l’interface de l’outil. Aucune information complémentaire n’a été ajoutée dans ces parties sur ce document.
+Pour toutes les autres parties, le texte ainsi que les illustrations présentées sont présentes sur l’interface de l’outil. Aucune autre information n’a été ajoutée sur ce document.
 
 
 ----------

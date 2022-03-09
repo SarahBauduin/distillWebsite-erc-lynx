@@ -3,7 +3,7 @@ title: "Tutoriels vidéos"
 
 ---
 
-Voici un ensemble de tutoriels vidéos. Chaque vidéo explique une étape du processus complet pour tester un scénario d'aménagement.  
+Voici un ensemble de tutoriels vidéos. Chaque vidéo explique une étape du processus complet pour tester un scénario d'aménagement. Pour une meilleure compréhension du processus au complet, il est préférable de regarder les tutoriels dans l'ordre.  
 
 **1. Création d’un compte pour utiliser l’outil ERC-Lynx**  
 ![](files/videos/creationCompte.mp4){width="50%"}
@@ -15,7 +15,7 @@ Voici un ensemble de tutoriels vidéos. Chaque vidéo explique une étape du pro
 ![](files/videos/descriptionGeneraleOutil.mp4){width="50%"}
 
 **4. Modifier le réseau routier**  
-![](files/videos/testVideo.mp4){width="50%"}
+![](files/videos/modifRoutes.mp4){width="50%"}
 
 **5. Modifier le paysage**  
 ![](files/videos/testVideo.mp4){width="50%"}

@@ -18,7 +18,7 @@ Voici un ensemble de tutoriels vidéos. Chaque vidéo explique une étape du pro
 ![](files/videos/modifRoutes.mp4){width="50%"}
 
 **5. Modifier le paysage**  
-![](files/videos/testVideo.mp4){width="50%"}
+![](files/videos/modifPaysage.mp4){width="50%"}
 
 **6. Modifier les populations de lynx**  
 ![](files/videos/testVideo.mp4){width="50%"}

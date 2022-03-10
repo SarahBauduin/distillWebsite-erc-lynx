@@ -5,6 +5,11 @@ title: "Foire aux questions"
 
 ### Questions générales
 
+### Connexion / Inscription
+
+* **J'obtiens une erreur lors de mon inscription.**  
+*Il est probable que vous ayez déjà un compte associé à l'adresse email avec laquelle vous essayez de vous inscrire. Essayez de vous connecter sur la page Connexion avec cette adresse email. Si vous avez oublié votre mot de passe, cliquez sur "Mot de passe oublié ?". Si le problème persiste, contactez-nous.*
+
 ### Modifier le réseau routier
 
 ### Modifier le paysage

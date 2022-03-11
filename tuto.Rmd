@@ -21,10 +21,10 @@ Voici un ensemble de tutoriels vidéos. Chaque vidéo explique une étape du pro
 ![](files/videos/modifPaysage.mp4){width="50%"}
 
 **6. Modifier les populations de lynx**  
-![](files/videos/testVideo.mp4){width="50%"}
+![](files/videos/modifPopulations.mp4){width="50%"}
 
 **7. Lancer le modèle Lynx-Collision-Habitat pour tester le scénario d’aménagement**  
-![](files/videos/testVideo.mp4){width="50%"}
+![](files/videos/testScenario.mp4){width="50%"}
 
 **8. Réception des résultats**  
 ![](files/videos/testVideo.mp4){width="50%"}

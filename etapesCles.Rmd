@@ -1,0 +1,37 @@
+---
+title: "Étapes du projet"
+
+---
+
+**Septembre 2021.** <a href="files/pdf/rapportFinal_projetERCLynx.pdf" target="blank">Rapport final du projet</a>.  
+
+**Juin 2021.** Journée de restitution du projet.  
+
+**Mars 2021.** <a href="files/pdf/colloqueITTECOP2021.pdf" target="blank">Présentation du projet</a> aux <a href="https://ittecop.fr/fr/ressources/video-webinaires/2021-03-05-webinaire-erc-lynx" target="blank">webinaires ITTECOP</a> et aux <a href="https://ittecop.fr/fr/item-actu/item/777-suite-aux-journ%C3%A9es-ittecop-des-25-et-26-mars-2021" target="blank">journées ITTECOP 2021</a>.  
+
+**Octobre 2019.** <a href="files/pdf/confIFREMER.pdf" target="blank">Présentation du projet</a> aux <a href="https://jiem-nantes-19.sciencesconf.org/" target="blank">Journées Ifremer - Réseau Mexico - GDR Ecostat - GDR MascotNum</a>.  
+
+**Septembre 2019.** Troisième atelier de travail à Besançon. <a href="files/pdf/atelier3_interface.pdf" target="blank">Présentation et test de l'interface par les acteurs locaux</a>.  
+
+**Juin 2019.** <a href="files/pdf/colloqueITTECOP2019.pdf" target="blank">Présenation du projet</a> au <a href="https://ittecop.fr/fr/?option=com_content&view=article&id=470:a-vos-agenda-colloque-ittecop-2019-les-5-6-et-7-juin-2019-a-l-ademe-sophia-antipolis&catid=70:agenda-thematique" target="blank">colloque 2019 ITTECOP à Sophia Antipolis</a>.  
+
+**Janvier 2019.** Stage de Master 2 de 6 mois (Delphine Souillot) sur <a href="files/pdf/memoireM2_Souillot.pdf" target="blank">la typologie des tronçons accidentogènes et les profils biologiques des lynx morts par collisions dans le Massif du Jura</a>. Accueillie et encadrée au CEREMA.  
+
+**Octobre 2018.** <a href="files/pdf/confSFE.pdf" target="blank">Présentation du projet</a> à la <a href="https://sfecologie2018.sciencesconf.org/" target="blank">conférence de la Société Française d’Écologie et d’Évolution à Rennes</a>.  
+
+**Septembre 2018.** <a href="files/pdf/atelier2_intro.pdf" target="blank">Deuxième atelier de travail à Besançon</a>. Présentations des <a href="files/pdf/atelier2_modeles.pdf" target="blank">améliorations apportées aux modèles de collisions et d'habitat, ainsi qu'une première version de l'interface</a>.    
+
+**Septembre 2018.** <a href="files/pdf/confIENE.pdf" target="blank">Présentation du projet</a> à la <a href="https://www.iene.info/international-conferences/iene-2018/" target="blank">conférence IENE 2018 au Pays-Bays</a>.  
+
+**Juin 2018.** <a href="files/pdf/atelier1_intro.pdf" target="blank">Premier atelier de travail à Besançon</a>. Présentation et discussion autour du <a href="files/pdf/atelier1_modelIBM.pdf" target="blank">modèle de viabilité du lynx</a> et de <a href="files/pdf/atelier1_interface.pdf" target="blank">l'interface de l'outil ERC-Lynx</a>.  
+
+**Mars 2018.** <a href="files/pdf/reunionLancement.pdf" target="blank">Réunion de lancement du projet à Besançon</a>.  
+
+**Février 2018.** Stage Master 2 de 6 mois (Charlotte-Anaïs Olivier) sur <a href="files/pdf/memoireM2_Olivier" target="blank">l'étude comparative de différentes méthodes de modélisation de corridors écologiques pour le Lynx boréal en France</a>. Accueillie au CROC, co-encadrée par des chercheurs du CROC et du CEFE.   
+
+**Janvier 2018.** Démarrage du projet ERC-Lynx. Post-doc d'un an (Sarah Bauduin) pour développer l'outil ERC-Lynx.  
+
+----------
+```{r, echo = FALSE, layout="l-body-outset"}
+knitr::include_graphics("images/piedPage.jpg")
+```
